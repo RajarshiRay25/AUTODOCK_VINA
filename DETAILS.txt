@@ -1,0 +1,19 @@
+Softwares & Servers -
+
+1. Autodock Vina
+2. Autodock Tools - MGL
+3. PyMol
+4. Windows Powershell/Any bash
+5. RCSB PDB
+6. PUBCHEM
+7. LigPlot+
+
+Labels - 
+
+1. Docking 1 - 3 --> S.aureus
+2. Docking 4 - 6 --> P.aeruginosa
+3. Files to open --
+	. complex.pdb --> Protein-Ligand Docking
+	. PRO-LIG INT --> Interaction of residues
+	. log.txt 	  --> To see docking results
+	. README 	  --> To see protein + ligand name

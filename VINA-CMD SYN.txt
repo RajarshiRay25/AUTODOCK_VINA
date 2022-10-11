@@ -1,0 +1,3 @@
+PS-ADMIN
+
+PS E:\UEM PROJECT\DOCKING-TEST RUN> E:\AutoDockVina\vina.exe --receptor protein.pdbqt --ligand ligand.pdbqt --config config.txt --log log.txt --out output.pdbqt
